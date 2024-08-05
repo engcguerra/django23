@@ -1,2 +1,2 @@
-# django23
-Projeto Django 2023 - Julho
+# django24
+Projeto Django 2024
